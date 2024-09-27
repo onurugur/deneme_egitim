@@ -6,6 +6,7 @@
         <field name="arch" type="xml">
             <xpath expr="//field[@name='payment_term_id']" position="after">
                 <field name="sale_last_order_date"/>
+                <field name="sale_last_order_date_computed"/>
             </xpath>
         </field>
     </record>
