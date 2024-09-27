@@ -1,0 +1,26 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* sale_last_order_date
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-27 07:08+0000\n"
+"PO-Revision-Date: 2024-09-27 07:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: sale_last_order_date
+#: model:ir.model.fields,field_description:sale_last_order_date.field_sale_order__sale_last_order_date
+msgid "Sale Order Date"
+msgstr "Son Sipariş Tarihi"
+
+#. module: sale_last_order_date
+#: model:ir.model,name:sale_last_order_date.model_sale_order
+msgid "Sales Order"
+msgstr "Satış Siparişi"
